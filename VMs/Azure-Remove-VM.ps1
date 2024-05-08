@@ -1,8 +1,6 @@
 <#
 .SYNOPSIS
 Removes a virtual machine from Azure.
-.DESCRIPTION
-This script is inspired by the article "Delete an Azure VM with objects using PowerShell" by Adam Bertram
 .EXAMPLE
 Parameter Name - Specifies a name for the virtual machine.
 Parameter ResourceGroupName - Specifies the name of the resource group of the virtual machine
